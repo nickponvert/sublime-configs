@@ -1,0 +1,18 @@
+-import datetime
+-datetime.date
+-print datetime.date
+-[x,y,z]=datetime.date
+-[x,y,z]=datetime.date()
+-today=datetime.date.today()
+-today
+-today[1]
+-today(year)
+-for i in today:
+-print i
+-for i in today:
+-	print i
+-t=today.timetuple()
+-t
+-clear
+-clear()
+-%clear
